@@ -48,7 +48,7 @@
         		<input type="text" name="alamat" class="form-controll">
         	</div>
         	<div class="form-group">
-        		<label>Foto</label><br>
+        		<label>Fotoku</label><br>
         		<input type="file" name="foto" class="form-controll">
         	</div>
             <div class="form-group">
